@@ -1,0 +1,239 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.section-lapa {
+    background-image: url("../petimages1.1/lapa-min.jpg");
+        background-position: center;
+        width: 1440px;
+        height: 1024px;
+}
+
+/*---------------HEADER--------------*/
+
+.header {
+    background: rgba(255, 209, 192, 0.4);
+    width: 1440px;
+        height: 300px;
+}
+
+.header-navigation {}
+
+.header-logo {}
+
+.header-logo-image {}
+
+.header-menu-list {}
+
+.header-menu-item {}
+
+.header-account {}
+
+/*---------------LOST--------------*/
+
+.lost {}
+
+.lost-title {
+    font-weight: 600;
+        font-size: 36px;
+        line-height: 164%;
+        color: #1c1c1c;
+}
+
+.lost-text {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 164%;
+        color: #1c1c1c;
+}
+
+.lost-btn {
+    font-weight: 600;
+        font-size: 20px;
+        line-height: 164%;
+        color: #fcfcfc;
+        background-color: #1C1C1C;
+}
+
+/*--------------WE--------------*/
+
+.we {
+    background-color: #CCACA3;
+}
+
+.we-title {
+    font-weight: 600;
+        font-size: 36px;
+        line-height: 164%;
+        color: #1c1c1c;
+}
+
+.we-text {
+font-weight: 500;
+    font-size: 20px;
+    line-height: 164%;
+    color: #1c1c1c;
+}
+
+.we-photo {}
+
+.we-list {}
+
+.we-item {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 164%;
+    color: #1c1c1c;
+}
+
+/*-------------FOUND--------------*/
+
+.found {
+}
+
+.found-title {
+    font-weight: 600;
+        font-size: 36px;
+        line-height: 164%;
+        color: #1c1c1c;
+}
+
+.found-text {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 164%;
+        color: #1c1c1c;
+}
+
+.found-list {}
+
+.found-item {}
+
+.found-image {}
+
+.found-btn {}
+
+.found-btn-image {}
+
+.found-list-title {}
+
+.found-list-subtitle {}
+
+.found-list-text {}
+
+.found-list-btn {}
+
+/*--------------MAP---------------*/
+
+.map {}
+
+.visually-hidden {}
+
+.map-map {}
+
+/*--------------REVIEWS--------------*/
+
+.reviews {}
+
+.reviews-title {
+    font-weight: 600;
+        font-size: 36px;
+        line-height: 164%;
+        color: #1c1c1c;
+}
+
+.reviews-list {}
+
+.reviews-item {}
+
+.reviews-text {font-weight: 500;
+    font-size: 16px;
+    line-height: 156%;
+    color: #fcfcfc;}
+
+.reviews-image {}
+
+.reviews-name {
+    font-weight: 600;
+        font-size: 14px;
+        line-height: 156%;
+        color: #1c1c1c;
+}
+
+.reviews-date {
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 156%;
+        color: #1c1c1c;
+}
+
+/*---------------BLOG-----------------*/
+
+.blog {}
+
+.blog-title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 164%;
+    color: #1c1c1c;
+}
+
+.blog-list {}
+
+.blog-item {}
+
+.blog-photo {}
+
+.blog-subtitle {
+    font-weight: 600;
+        font-size: 16px;
+        line-height: 156%;
+        color: #1c1c1c;
+}
+
+.blog-text {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 156%;
+        color: #1c1c1c;
+}
+
+/*-----------------FOOTER------------------*/
+
+.footer {
+    background-color: #C5A096;
+}
+
+.footer-logo {}
+
+.footer-logo-image {}
+
+.footer-navigation {}
+
+.footer-list {}
+
+.footer-item {}
+
+.footer-pages {}
+
+.footer-list-spcial {}
+
+.footer-special-item {}
+
+.footer-network {}
+
+.footer-network-icon {}
